@@ -1,0 +1,7 @@
+# Ignore the data folders
+Aircraft/data/
+Aircraft/cache/
+CARS/data/
+CARS/cache/
+CUB/data/
+CUB/cache/
