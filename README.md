@@ -23,10 +23,17 @@ Highest accuracy (%) obtained by each method:
 ## Citation
 
 ```bibtex
-@inproceedings{teixeira2025triplet,
-  title={Triplet dissimilarity: improving dissimilarity approaches through metric learning},
-  author={Teixeira, Lucas O. and Bertolini, Diego and Oliveira, Luiz E. S. and Cavalcanti, George D. C. and Costa, Yandre M. G.},
-  booktitle={INNS Workshop on Deep Learning Innovations and Applications (DLIA)},
-  year={2025}
+@article{Teixeira2025TripletINSS,
+  title = {Triplet dissimilarity: improving dissimilarity approaches through metric learning},
+  journal = {Procedia Computer Science},
+  volume = {264},
+  pages = {147-156},
+  year = {2025},
+  note = {International Neural Network Society Workshop on Deep Learning Innovations and Applications 2025},
+  issn = {1877-0509},
+  doi = {https://doi.org/10.1016/j.procs.2025.07.126},
+  url = {https://www.sciencedirect.com/science/article/pii/S1877050925021763},
+  author = {Lucas O. Teixeira and Diego Bertolini and Luiz E.S. Oliveira and George D.C. Cavalcanti and Yandre M.G. Costa},
+  keywords = {Fine-grained visual classification, Triplet loss, Metric learning, Dissimilarity representation}
 }
 ```
